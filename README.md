@@ -1,7 +1,7 @@
 # 2D-Retro-Game-by-Mo
 
 <b> <U> Student: Moustapha SY Class 33 </U> </b>
-![](pictures/pokemon.png)
+![](pictures/draft.jpg)
 
 <b>  <U> Description : </U> </b>
 
