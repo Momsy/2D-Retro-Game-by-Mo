@@ -3,8 +3,15 @@
 <b> <U> Student: Moustapha SY </U> </b>
 ![](pictures/draft.jpg)
 
-<b>  <U> Description : </U> </b>
-Welcome Screen:
+<b>  <U> Welcome Screen : </U> </b>
+
 ![](pictures/PP-game.png)
 
-Les différentes notions attendues du livrables sont les suivantes:
+<b>  <U> Level 1 : </U> </b>
+
+
+<b>  <U> Level 1 : </U> </b>
+
+<b>  <U> Level 1 : </U> </b>
+
+<b>  <U> Level 1 : </U> </b>
