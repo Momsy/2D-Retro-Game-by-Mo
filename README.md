@@ -1,6 +1,6 @@
 # 2D-Retro-Game-by-Mo
 
-<b> <U> Student: Moustapha SY Class 33 </U> </b>
+<b> <U> Student: Moustapha SY </U> </b>
 ![](pictures/draft.jpg)
 
 <b>  <U> Description : </U> </b>
